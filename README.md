@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya-Chauhan-1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Aditya-Chauhan-1&label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Aditya-Chauhan-1?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
 </p>
 
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e57c8350d106.gif" />
