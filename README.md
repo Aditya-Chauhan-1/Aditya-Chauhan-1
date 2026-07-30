@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya-Chauhan-1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Aditya-Chauhan-1?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/Aditya-Chauhan-1&label=Followers&style=for-the-badge&color=blue" alt="Followers" />
 </p>
 
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e57c8350d106.gif" />
@@ -109,8 +109,8 @@
 <br />
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aditya-Chauhan-1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Chauhan-1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=Aditya-Chauhan-1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Aditya-Chauhan-1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br />
@@ -122,7 +122,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Chauhan-1&theme=radical&no-frame=true&no-bg=false&margin-w=10&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy-psi.vercel.app/?username=Aditya-Chauhan-1&theme=radical&no-frame=true&no-bg=false&margin-w=10&column=4" alt="Trophies" />
 </div>
 
 ---
