@@ -1,127 +1,111 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aditya-Chauhan-1/Aditya-Chauhan-1/main/Aditya_Chauhan.png" alt="logo" width="500">
+  <img src="https://github.com/Aditya-Chauhan-1/Aditya-Chauhan-1/blob/main/Aditya_Chauhan.png" alt="logo" width="500">
 </div>
 
 <h1 align="center">Hi there! 👋 I'm Aditya Chauhan</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Data Science Trainer</h3>
+<h1 align="center">I am Software Engineer</h1>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b-4faa-be07-93e6b1006521.gif" alt="coding" width="400">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Aditya-Chauhan-1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-## 👨‍💻 About Me
-
-- 🌱 Full Stack Developer (MERN Stack)
-- 💻 Software Engineer
-- 📊 Data Science Trainer
-- 🚀 Passionate about Web Development, AI & Machine Learning
-- 💡 Always learning new technologies and building real-world projects.
-
-- 👨‍💻 Portfolio & Projects:
-  - https://github.com/Aditya-Chauhan-1
-
-- 🌐 Netlify:
-  - https://app.netlify.com/teams/aditya6395
-
-- 📫 Email:
-  - aadityachauhan6395@gmail.com
-
-- 📱 Phone:
-  - +91 6395756268
-
-- ⚡ Fun Fact:
-  - I enjoy solving coding problems and making people laugh. 😄
-
----
-
-## 🌐 Connect with Me
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="coding" width="400">
 
 <p align="left">
-<a href="https://linkedin.com/in/adityachauhan6395" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/_forgot_0" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/aadityachauhan61" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=Aditya-Chauhan-1&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Chauhan-1" />
 </p>
+
+- 🌱 I’m a **Full Stack Developer** skilled in both front-end and back-end technologies.
+- 👨‍💻 Check out my projects on [Netlify](https://app.netlify.com/teams/aditya6395).
+- 📫 Feel free to contact me at **6395756268** or [aadityachauhan6395@gmail.com](mailto:aadityachauhan6395@gmail.com).
+- ⚡ **Fun Fact**: I have a knack for humor and love making people laugh! 😄
 
 ---
 
-## 🛠️ Languages & Tools
-
+<h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,express,mongodb,mysql,sqlite,python,pandas,git,github,firebase,figma,vscode,postman&perline=9"/>
-
+  <a href="https://linkedin.com/in/adityachauhan6395" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn Profile" height="30" width="100" />
+  </a>
+  <a href="https://instagram.com/_forgot_0" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram Profile" height="30" width="100" />
+  </a>
+  <a href="https://www.hackerrank.com/aadityachauhan61" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Hackerrank-2D8D5F?logo=hackerrank&logoColor=white&style=flat-square" alt="Hackerrank Profile" height="30" width="130" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditya-Chauhan-1&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Chauhan-1&layout=compact&theme=radical"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-Chauhan-1&theme=radical"/>
-
+<h3 align="left">🛠️ Languages & Tools:</h3>
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+<h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya-Chauhan-1&theme=radical&no-frame=true&margin-w=10"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Chauhan-1&layout=compact&theme=radical" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Chauhan-1&show_icons=true&theme=radical" width="350"/>
 </p>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Chauhan-1&theme=react-dark"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Chauhan-1&theme=radical" width="350"/>
 </p>
-
----
-
-## 💻 Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-</p>
-
----
-
-## 👀 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Aditya-Chauhan-1&label=Visitors&color=blue&style=for-the-badge"/>
-
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
