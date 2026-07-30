@@ -116,7 +116,7 @@
 <br />
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=Aditya-Chauhan-1&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-streak-stats-one.vercel.app/?user=Aditya-Chauhan-1&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
