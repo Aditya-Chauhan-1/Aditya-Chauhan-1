@@ -12,7 +12,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Data+Science+Enthusiast;Building+scalable+web+apps;Always+learning+%26+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Building+scalable+web+apps;Always+learning+%26+shipping" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -26,7 +26,6 @@
 
 - Full Stack Developer focused on clean UI and solid APIs
 - Comfortable across front-end, back-end, and databases
-- Data Science enthusiast working with Python, Pandas & Seaborn
 - Building projects with React, Node.js, and modern JS tooling
 - Open to collaboration, freelancing, and interesting opportunities
 - Fun fact: I love writing code that works *and* making people laugh
@@ -86,14 +85,6 @@
 </details>
 
 <details open>
-<summary><b>Data Science</b></summary>
-<br />
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,sklearn,jupyter" alt="Data Science" />
-</p>
-</details>
-
-<details open>
 <summary><b>Tools & Platforms</b></summary>
 <br />
 <p>
@@ -116,7 +107,7 @@
 <br />
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=Aditya-Chauhan-1&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Chauhan-1&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
@@ -138,11 +129,9 @@
 
 ---
 
-<!-- ===================== NAME CARD ===================== -->
+<!-- ===================== QUOTE ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=32&duration=1&pause=1000000&color=79C0FF&center=true&vCenter=true&width=520&lines=%E2%80%9C+Aditya+Chauhan+%E2%80%9D" alt="Aditya Chauhan" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000000&color=FF7B72&center=true&vCenter=true&width=420&lines=-+Full+Stack+Developer+%7C+Data+Science" alt="Role" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 ---
