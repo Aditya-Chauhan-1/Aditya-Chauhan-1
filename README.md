@@ -1,30 +1,26 @@
  <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Aditya-Chauhan-1/Aditya-Chauhan-1/main/Aditya_Chauhan.png" alt="Aditya Chauhan Sir - Software Engineer, Data Science Specialist and Corporate Trainer" width="100%" />
+  <img src="https://raw.githubusercontent.com/Aditya-Chauhan-1/Aditya-Chauhan-1/main/Aditya_Chauhan.png" alt="Aditya Chauhan Sir Professional Banner" width="100%" />
 
   <h1>Hi, I'm Aditya Chauhan 👋</h1>
   <h2>Aditya Chauhan Sir</h2>
+  <h3>Software Engineer | Data Science Specialist | Corporate Trainer | AI & Machine Learning</h3>
 
-  <h3>Software Engineer | Data Science Specialist | Corporate Trainer | AI & Machine Learning Enthusiast</h3>
-
-  <p>
-    <b>Building Innovative Software | Exploring Artificial Intelligence | Empowering Future Technology Professionals</b>
-  </p>
+  <p><b>Building Innovative Software | Exploring AI | Empowering Future Technology Professionals</b></p>
 
   <p>
-    <a href="https://adityasir.in">Personal Website</a> •
-    <a href="https://linkedin.com/in/adityachauhan6395">LinkedIn</a> •
+    <a href="https://adityasir.in">Official Website</a> •
+    <a href="https://www.linkedin.com/in/aditya-chauhan-sir/">LinkedIn</a> •
     <a href="https://github.com/Aditya-Chauhan-1">GitHub</a> •
     <a href="mailto:aadityachauhan6395@gmail.com">Email</a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Aditya+Chauhan+Sir;Software+Engineer;Data+Science+Specialist;Corporate+Technical+Trainer;AI+%26+Machine+Learning+Trainer;Full+Stack+MERN+Developer;Python+%26+Data+Science+Expertise;Building+Real-World+Technology+Solutions" alt="Professional Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Aditya+Chauhan+Sir;Software+Engineer;Data+Science+Specialist;Corporate+Technical+Trainer;AI+%26+Machine+Learning+Trainer;Full+Stack+MERN+Developer;Building+Real-World+Technology+Solutions" alt="Professional Roles" />
 
   <br />
 
   <img src="https://komarev.com/ghpvc/?username=Aditya-Chauhan-1&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Aditya-Chauhan-1?label=GitHub%20Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Aditya-Chauhan-1?label=GitHub%20Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
 
 </div>
 
@@ -40,16 +36,16 @@ My professional journey combines software engineering, full-stack development, d
 
 I believe in learning by building, solving real-world problems, and sharing technical knowledge with the next generation of developers.
 
-### My Professional Identity
+### Professional Identity
 
-- 💻 **Software Engineer:** Developing modern applications, integrating APIs, implementing requirements, and improving application functionality.
-- 📊 **Data Science Specialist:** Working with Python, NumPy, Pandas, data analysis, data visualization, and Machine Learning.
-- 🤖 **AI & Machine Learning Enthusiast:** Exploring AI-powered applications, NLP, intelligent automation, and practical ML solutions.
-- 🎓 **Corporate Trainer:** Delivering technical training in Python, Web Development, Data Science, Artificial Intelligence, and Machine Learning.
-- 🌐 **Full Stack Developer:** Building frontend and backend applications using React.js, Node.js, Express.js, and MongoDB.
-- 🚀 **Technical Mentor:** Helping students develop programming knowledge and practical industry-ready skills.
+- 💻 **Software Engineer:** Software development, API development, integration, and application functionality.
+- 📊 **Data Science Specialist:** Python, NumPy, Pandas, data analysis, visualization, and Machine Learning.
+- 🤖 **AI & Machine Learning:** NLP, AI-powered applications, semantic search, and intelligent automation.
+- 🎓 **Corporate Trainer:** Python, Web Development, Data Science, Artificial Intelligence, and Machine Learning.
+- 🌐 **Full Stack Developer:** React.js, Node.js, Express.js, MongoDB, JavaScript, and Tailwind CSS.
+- 🚀 **Technical Mentor:** Practical programming education and industry-oriented project development.
 
-🌐 **Official Website:** [https://adityasir.in](https://adityasir.in)
+🌐 **Official Website:** https://adityasir.in
 
 ---
 
@@ -95,13 +91,12 @@ I believe in learning by building, solving real-world problems, and sharing tech
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 Artificial Intelligence
 
-- Artificial Intelligence Fundamentals
+- AI Fundamentals
 - Machine Learning Algorithms
 - Supervised Learning
 - Unsupervised Learning
@@ -111,7 +106,7 @@ I believe in learning by building, solving real-world problems, and sharing tech
 - AI Chatbot Development
 - Generative AI Fundamentals
 - Embeddings & Semantic Search
-- Retrieval-Augmented Generation Fundamentals
+- RAG Fundamentals
 - AI-powered Applications
 
 </td>
@@ -121,15 +116,14 @@ I believe in learning by building, solving real-world problems, and sharing tech
 
 - Python Training
 - Web Development Training
-- Full Stack Development Training
+- Full Stack Development
 - Data Science Training
-- Artificial Intelligence Training
-- Machine Learning Training
+- Artificial Intelligence
+- Machine Learning
 - SQL Training
 - Programming Fundamentals
 - Project-Based Learning
 - Technical Mentoring
-- Student Guidance
 - Industry-Oriented Training
 
 </td>
@@ -149,27 +143,26 @@ I believe in learning by building, solving real-world problems, and sharing tech
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" alt="Frontend Development" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma" alt="Frontend Technologies" />
 </p>
 
 ### Backend Development & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,firebase" alt="Backend Development" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,firebase" alt="Backend Technologies" />
 </p>
 
 ### Data Science & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,jupyter" alt="Data Science and Machine Learning" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,jupyter" alt="Data Science Technologies" />
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="42" height="42" alt="Matplotlib" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" height="42" alt="Seaborn" />
 </p>
 
 ### Development Tools & Platforms
@@ -178,7 +171,7 @@ I believe in learning by building, solving real-world problems, and sharing tech
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,linux" alt="Development Tools" />
 </p>
 
-### Other Technologies & Services
+### Additional Technologies
 
 - Gradio
 - FAISS
@@ -196,7 +189,7 @@ I believe in learning by building, solving real-world problems, and sharing tech
 
 ## 🚀 Projects & Practical Development
 
-I focus on building practical software and AI solutions that solve real-world problems.
+I enjoy building practical software and AI solutions that solve real-world problems.
 
 ### 1. AI-Powered School FAQ Chatbot
 
@@ -214,8 +207,8 @@ I focus on building practical software and AI solutions that solve real-world pr
 
 - Data preprocessing and exploratory data analysis.
 - Implemented machine learning classification models.
-- Evaluated models using accuracy, confusion matrices, and performance metrics.
-- Developed practical predictive analytics solutions.
+- Evaluated models using confusion matrices and performance metrics.
+- Developed predictive analytics solutions.
 
 ### 3. AI-Powered Applications
 
@@ -249,8 +242,6 @@ I focus on building practical software and AI solutions that solve real-world pr
 ## 🎓 Corporate Training & Technical Education
 
 I am passionate about helping students and aspiring developers understand modern technologies through practical learning.
-
-My training approach focuses on programming fundamentals, real-world applications, hands-on exercises, and project development.
 
 ### Training Domains
 
@@ -340,11 +331,11 @@ I welcome opportunities to connect with software developers, technology professi
 <div align="center">
 
   <a href="https://adityasir.in">
-    <img src="https://img.shields.io/badge/Official%20Website-Aditya%20Chauhan%20Sir-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aditya Chauhan Sir Website" />
+    <img src="https://img.shields.io/badge/Official%20Website-Aditya%20Chauhan%20Sir-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website" />
   </a>
 
-  <a href="https://linkedin.com/in/adityachauhan6395">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/aditya-chauhan-sir/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 
   <a href="https://github.com/Aditya-Chauhan-1">
@@ -402,17 +393,17 @@ My goal is to grow as a Software Engineer and Data Science Specialist while cont
 
   <h3>Aditya Chauhan Sir</h3>
 
+  <p><b>Software Engineer | Data Science Specialist | Corporate Trainer | AI & Machine Learning</b></p>
+
   <p>
-    <b>Software Engineer | Data Science Specialist | Corporate Trainer | AI & Machine Learning</b>
+    <a href="https://adityasir.in"><b>🌐 Official Website – adityasir.in</b></a>
   </p>
 
   <p>
-    <a href="https://adityasir.in"><b>🌐 Visit My Official Website – adityasir.in</b></a>
+    <a href="https://www.linkedin.com/in/aditya-chauhan-sir/"><b>💼 Connect on LinkedIn</b></a>
   </p>
 
-  <p>
-    <i>Keep Learning. Keep Building. Keep Inspiring.</i>
-  </p>
+  <p><i>Keep Learning. Keep Building. Keep Inspiring.</i></p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="GitHub Footer" />
 
